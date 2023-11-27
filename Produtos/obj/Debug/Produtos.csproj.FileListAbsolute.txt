@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\Produtos\Produtos\bin\Debug\Produtos.exe.config
+C:\Users\user\Desktop\Produtos\Produtos\bin\Debug\Produtos.exe
+C:\Users\user\Desktop\Produtos\Produtos\bin\Debug\Produtos.pdb
+C:\Users\user\Desktop\Produtos\Produtos\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\Produtos\Produtos\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\Produtos\Produtos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Cadastro_login.Cadastro.resources
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.Login.resources
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.Properties.Resources.resources
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.csproj.CopyComplete
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.exe
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.pdb
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Cadastro_login.Gerenciamento.resources
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.LojaFisica.resources
+C:\Users\user\Desktop\Produtos\Produtos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Produtos\Produtos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Produtos\Produtos\obj\Debug\Produtos.BalancoGenero.resources
+C:\Users\user\Desktop\Produtos - Copia\Produtos\bin\Debug\Produtos.exe.config
+C:\Users\user\Desktop\Produtos - Copia\Produtos\bin\Debug\Produtos.exe
+C:\Users\user\Desktop\Produtos - Copia\Produtos\bin\Debug\Produtos.pdb
+C:\Users\user\Desktop\Produtos - Copia\Produtos\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\Produtos - Copia\Produtos\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\Produtos - Copia\Produtos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\Produtos - Copia\Produtos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Produtos - Copia\Produtos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.BalancoGenero.resources
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Cadastro_login.Cadastro.resources
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.Login.resources
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Cadastro_login.Gerenciamento.resources
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.LojaFisica.resources
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.Properties.Resources.resources
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.csproj.CopyComplete
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.exe
+C:\Users\user\Desktop\Produtos - Copia\Produtos\obj\Debug\Produtos.pdb
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\bin\Debug\Produtos.exe.config
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\bin\Debug\Produtos.exe
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\bin\Debug\Produtos.pdb
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.BalancoGenero.resources
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Cadastro_login.Cadastro.resources
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.Login.resources
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Cadastro_login.Gerenciamento.resources
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.LojaFisica.resources
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.Properties.Resources.resources
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.csproj.CopyComplete
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.exe
+C:\Users\user\Desktop\ProjetoProdutosC--main\Produtos\obj\Debug\Produtos.pdb
